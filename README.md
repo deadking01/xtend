@@ -1,2 +1,2 @@
-# xtend
-xtend language
+# xtext
+xtext demos
